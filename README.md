@@ -17,7 +17,3 @@ I’ve worked with tools like **IntelliJ IDEA, Visual Studio Code, Git, and Bitb
 - 🏦 I would love to work in the banking sector.  
 
 ---
-
-### 🔗 Let’s connect!  
-- [LinkedIn](https://www.linkedin.com/in/jhonatan-sanchez-flores-233468329/)  
-- 📧 jhonatansanchezflores51@gmail.com  
