@@ -8,12 +8,8 @@ Outside of code, I enjoy learning new technologies, exploring anime, and constan
 
 I’ve worked with tools like **IntelliJ IDEA, Visual Studio Code, Git, and Bitbucket**, and I’m experienced in managing backend services and database integrations with **MySQL, Oracle SQL, and MongoDB**.  
 
----
-
 ### Fun Facts
 - 🎨 I really enjoy art.  
 - ☕ I like coffee.  
 - 🤖 I’m passionate about technology and robotics.  
 - 🏦 I would love to work in the banking sector.  
-
----
